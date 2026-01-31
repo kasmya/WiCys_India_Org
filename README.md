@@ -1,11 +1,49 @@
-<<<<<<< HEAD
-## Running the code
+# 🌐 WiCyS India – Official Website
 
-  Run `npm i` to install the dependencies.
+A modern, responsive website developed for **WiCyS India (Women in CyberSecurity)** to showcase leadership, community initiatives, events, and programs through a clean and accessible frontend design.
 
-  Run `npm run dev` to start the development server.
-  
-=======
-# WiCys_India_Org
-Revamped responsive website for WiCyS India showcasing leadership, community, events, and programs with modern frontend architecture.
->>>>>>> d65679ae9a6f6f273ca083bd34695e321321b97c
+## ✨ Project Overview
+
+This project aims to strengthen WiCyS India’s online presence by providing a visually appealing, user-friendly, and responsive website. It highlights the organization’s mission of empowering women in cybersecurity through education, collaboration, and leadership.
+
+## 🚀 Features
+
+- 📱 Fully responsive design (mobile, tablet, desktop)
+- 🎨 Clean and modern UI/UX
+- 👥 Leadership and community sections
+- 📅 Events and programs showcase
+- ⚡ Optimized frontend performance
+- ♿ Accessibility-friendly layout
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## 🧑‍💻 My Contributions
+
+- Built responsive layouts from scratch
+- Designed and implemented reusable UI components
+- Improved accessibility and site structure
+- Ensured consistent styling across pages
+- Optimized frontend performance
+
+## 🌍 Live Preview
+
+🔗 
+
+## 🎯 Purpose
+
+- Enhance WiCyS India’s digital presence
+- Provide a centralized platform for events and initiatives
+- Demonstrate real-world frontend development skills
+
+## 📌 Future Enhancements
+
+- Backend integration for dynamic content
+- Event registration functionality
+- SEO and performance improvements
+- Dark mode support
+
+
