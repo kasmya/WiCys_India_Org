@@ -29,10 +29,6 @@ This project aims to strengthen WiCyS India’s online presence by providing a v
 - Ensured consistent styling across pages
 - Optimized frontend performance
 
-## 🌍 Live Preview
-
-🔗 
-
 ## 🎯 Purpose
 
 - Enhance WiCyS India’s digital presence
